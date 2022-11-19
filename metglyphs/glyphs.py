@@ -157,7 +157,7 @@ WMO_GLYPH_LOOKUP = {
         '93d': 'wi-thunderstorm.svg',
         '94d': 'wi-lightning.svg',
         '95d': 'wi-day-thunderstorm.svg',
-        '95n': 'wi-night-alt-thunderstorm.svg'
+        '95n': 'wi-night-alt-thunderstorm.svg',
         '96d': 'wi-thunderstorm.svg',
         '99d': 'wi-tornado.svg'
     }
