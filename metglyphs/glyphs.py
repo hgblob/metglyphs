@@ -71,7 +71,7 @@ WMO_GLYPH_LOOKUP = {
         '95n': '28.svg'
     },
     WEATHER_ICONS_IO_GLYPHS: {
-        "00d": "wi-day-sunny.svg"
+        "00d": "wi-day-sunny.svg",
         "00n": "wi-night-clear.svg",
         '01d': 'wi-day-cloudy.svg',
         '01n': 'wi-night-cloudy.svg',
